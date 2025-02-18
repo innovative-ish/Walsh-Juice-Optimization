@@ -7,7 +7,6 @@ This repository contains files related to the optimization of Walsh’s Juice Co
 - **Case Study Document**: Provides an in-depth analysis of the problem, solution approach, key findings, and recommendations.
 - **Excel File**: Contains data used in the optimization model and results.
 - **PowerPoint Presentation**: Summarizes the project findings and recommendations.
-- **Word Document**: Detailed case study documentation.
 
 ## Problem Statement
 Walsh’s Juice Company sources raw grape juice from three vineyards and processes it at four plants to produce bottled juice, frozen concentrate, and jelly. Each plant has capacity constraints and varying processing costs. The challenge is to minimize transportation and processing expenses while meeting production requirements.
